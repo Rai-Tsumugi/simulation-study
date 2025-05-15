@@ -2,10 +2,7 @@ package com.example;
 
 import com.google.ortools.Loader;
 import com.google.ortools.linearsolver.*;
-/**
- * Hello world!
- *
- */
+
 public class App 
 {
     public static void main( String[] args )
