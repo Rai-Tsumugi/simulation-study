@@ -17,7 +17,7 @@ public class App {
         double daphniaDeathRate = 0.05;
 
         double fish = 5; // daphniaBirthRate/daphniaDeathRateで安定した魚の個体数
-        // 魚：繁殖率は2%/自然死率は30%
+        // 魚：繁殖率は0.3%/自然死率は30%
         double fishBirthRate = 0.003;
         double fishDeathRate = 0.3;
         
