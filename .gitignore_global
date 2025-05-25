@@ -1,0 +1,16 @@
+# ~/.gitignore_global
+
+# Maven ビルド成果物
+/target/
+/test-classes/
+*.class
+/.mvn/
+
+# テストコード一式
+/src/test/
+
+# IDE ファイル
+/.idea/
+/.vscode/
+/*.iml
+
