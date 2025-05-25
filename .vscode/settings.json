@@ -9,5 +9,6 @@
             "default": true
         }
     ],
-    "java.configuration.maven.userSettings": "${workspaceFolder}/.m2/settings.xml"
+    "java.configuration.maven.userSettings": "${workspaceFolder}/.m2/settings.xml",
+    "maven.view": "hierarchical"
 }
